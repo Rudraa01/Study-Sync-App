@@ -1,4 +1,6 @@
 import Image from "next/image";
+import Hero from "@/components/layout/Hero";
+import Features from "@/components/layout/Features";
 
 export default function Home() {
   return (
